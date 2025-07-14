@@ -14,8 +14,10 @@
     "@moralisweb3/common-evm-utils": "^2.27.2",
     "cors": "^2.8.5",
     "dotenv": "^17.0.1",
+    "ethers": "^6.15.0",
     "express": "^5.1.0",
     "moralis": "^2.27.2",
+    "nodemailer": "^7.0.4",
     "openai": "^5.8.2"
   }
 }
